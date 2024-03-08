@@ -10,7 +10,7 @@ This project uses Object-oriented programming to organize a library's content
 
 ### Dependencies
 
-* There are no prerequisites, libraries, OS version, etc., needed before installing program.
+* Node.js is needed to run the program.
 
 ### Installing
 
