@@ -10,7 +10,7 @@ This project uses Object-oriented programming to organize a library's content
 
 ### Dependencies
 
-* Node.js is needed to run the program.
+* Program Requires Node.js for Execution.
 
 ### Installing
 
